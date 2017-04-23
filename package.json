@@ -1,0 +1,26 @@
+{
+  "name": "band-website-the-monkees",
+  "version": "1.0.0",
+  "description": "Website for the band \"The Monkees\". This is a code institute project for module 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BDaviesGIT/monkees-website.git"
+  },
+  "keywords": [
+    "coursework",
+    "module",
+    "1",
+    "code",
+    "institute"
+  ],
+  "author": "Ben Davies",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BDaviesGIT/monkees-website/issues"
+  },
+  "homepage": "https://github.com/BDaviesGIT/monkees-website#readme"
+}
