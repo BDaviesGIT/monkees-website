@@ -1,0 +1,21 @@
+{
+  "name": "band-website-the-monkees",
+  "description": "Website for the band \"The Monkees\". This is a code institute project for module 1",
+  "main": "index.js",
+  "authors": [
+    "Ben Davies"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "coursework",
+    "module",
+    "1",
+    "code",
+    "institute"
+  ],
+  "homepage": "https://github.com/BDaviesGIT/monkees-website",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "angular": "^1.6.4"
+  }
+}
