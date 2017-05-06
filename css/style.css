@@ -9,7 +9,6 @@ body {
 	font-family: 'Open Sans', sans-serif;
 	text-rendering: optimizeLegibility !important;
 	-webkit-font-smoothing: antialiased !important;
-	background-color: #aadbed;
 }
 
 li {
@@ -88,6 +87,9 @@ p {
 	background-color: #fff !important;
 }
 
+.navbar-nav > li > a {
+   line-height: 30px;
+}
 
 /*main container*/
 .container{
