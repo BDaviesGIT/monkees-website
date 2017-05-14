@@ -100,24 +100,91 @@ p {
 		text-align: center;
 }
 
+.h1 {
+	text-align: center;
+}
+
+/*video*/
+
+.centre {
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
 
 
+/*discography carosel*/
+.bs-example, .new-caption-area {
+    width: 600px;
+    margin: auto;
+    color: #000;
+  }
+  
+  .carousel-caption {
+	color: #000;
+}
 
+/*form*/
 
+    
+    form {
+        width: 450px;
+        border: 1px solid #999;
+        border-radius: 20px;
+        clear: both;
+        padding: 20px;
+        margin-bottom: 100px;
+        background-color: rgba(129, 187, 201, .2);
+    }
+    fieldset {
+        margin-bottom: 5px;
+        border: none;
+    }
+    form h1 {
+        font-size: 30px;
+        background-color: #fff;
+        border-radius: 5px;
+        border: 1px solid #999;
+        padding: 4px 15px;
+        width: 250px;
+    }
+    
+    .field {
+        padding: 6px 8px;
+    }
+    
+    label.field,
+    legend {
+        display: block;
+        text-align: left;
+        width: 100px;
+        float: left;
+        clear: both;
+    }
+    
+    input {
+        width: 200px;
+        border-radius: 5px;
+        padding: 6px 8px;
+    }
+    
+    #checkbox {
+        padding: 6px 8px;
+    }
+    #checkbox input {
+        width: 25px;
+        margin-top: 20px;
+    }
 
+    #submit {
+        width: 100%;
 
-
-
-
-
-
-
-
-
-
-
-
-
+/* form image*/
+		
+img{
+			float: right;/*float image to right of text*/
+			margin: 0 20px 20px 20px;
+			border:2px solid black;
 
 
 
