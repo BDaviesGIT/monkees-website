@@ -33,7 +33,6 @@ h1,
 h2,
 h4 {
 	font-family: 'PT Sans Narrow', Arial, sans-serif;
-	text-transform: uppercase;
 	front-weight: 700;
 }
 
@@ -109,8 +108,15 @@ p {
 .centre {
 	margin-left: auto;
 	margin-right: auto;
+	padding: 5px;
 	display: block;
 }
+ /*audio player*/
+
+ .audio {
+ 	display: block;
+ 	text-align: right;
+ }
 
 
 /*discography carosel*/
@@ -124,6 +130,9 @@ p {
 	color: #000;
 }
 
+.carousel-inner > .item > img {
+    margin: 0 auto;
+}
 /*form*/
 
     
@@ -177,18 +186,7 @@ p {
     }
 
     #submit {
-        width: 100%;
-
-/* form image*/
-		
-img{
-			float: right;/*float image to right of text*/
-			margin: 0 20px 20px 20px;
-			border:2px solid black;
-
-
-
-
+        width: 100%;}
 
 
 
