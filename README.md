@@ -31,7 +31,7 @@ Desired features for the site are: the ability to display audio/ video files, sh
 
 - [Bootstrap](http://getbootstrap.com/)
 	- **Bootstrap** was used to give the website a clear and responsive layout with fully responsive navigation. Additional features from Bootstrap where also utilised such as glyphicons, buttons etc. 
-  - [Jquery](http://code.jquery.com)
+- [Jquery](http://code.jquery.com)
   - **Jquery** used to add fuctionality to the discography page carosel, allowing track listings to change when the correct album art is navigated to.
 - [npm](https://www.npmjs.com/)
 	- We use **npm** to help manage some of the dependencies in our application
