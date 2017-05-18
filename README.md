@@ -39,7 +39,7 @@ Desired features for the site are: the ability to display audio/ video files, sh
 	- **Bower** is used to manage the installation of our libraries and frameworks
  
 ## Contributing
-N/A
+- "entiendoNull" (http://stackoverflow.com/questions/33552509/bootstrap-carousel-and-show-display-different-text-accordingly-to-current-slide) Jquery code and HTML template for the discography carousel used/ edited to function as intended for the site.
 
 ### Getting the code up and running
 1. Firstly you will need to clone this repository by running the ```git clone <project's Github URL>``` command
